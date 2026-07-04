@@ -41,12 +41,9 @@ The analysis combines several complementary approaches.
 
 # Manuscript
 
-Contains the complete research paper, including:
+The repository includes the final research manuscript in PDF format.
 
-- Final manuscript (PDF)
-- LaTeX source
-- Bibliography
-- Publication figures
+The paper presents the complete theoretical framework, Monte Carlo simulation methodology, sensitivity analyses, figures, and references.
 
 ---
 
