@@ -39,36 +39,6 @@ The analysis combines several complementary approaches.
 
 ---
 
-# Getting Started
-
-## Prerequisites
-
-### R (≥ 4.0)
-
-Required packages:
-
-- `tidyverse`
-- `ggplot2`
-- `dplyr`
-- `readr`
-
-Additional packages may be required depending on future extensions.
-
-### Interactive Application
-
-The web application is built using:
-
-- `HTML`
-- `CSS`
-- `JavaScript`
-- `Leaflet.js`
-- `Turf.js`
-
-Any modern web browser is sufficient to run the application.
-
----
-
-
 # Manuscript
 
 Contains the complete research paper, including:
