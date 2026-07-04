@@ -13,7 +13,7 @@ This project models rebuilding as a local externality game between neighboring h
 ---
 # Repository Contents
 
-```
+```text
 .
 ├── LICENSE                         # MIT License
 ├── README.md                       # Project documentation
