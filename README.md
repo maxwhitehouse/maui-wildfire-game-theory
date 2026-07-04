@@ -68,9 +68,8 @@ Any modern web browser is sufficient to run the application.
 
 ---
 
-# Repository Components
 
-## Manuscript
+# Manuscript
 
 Contains the complete research paper, including:
 
@@ -78,44 +77,6 @@ Contains the complete research paper, including:
 - LaTeX source
 - Bibliography
 - Publication figures
-
----
-
-## Simulation
-
-The Monte Carlo simulation evaluates rebuilding incentives under uncertainty.
-
-Parameters varied across simulations include:
-
-- Annual wildfire probability
-- Compliance costs
-- Mitigation effectiveness
-- Enforcement probability
-- Expected sanctions
-- Behavioral risk weighting
-
-Simulation outputs include:
-
-- Net compliance benefits
-- Nash equilibrium classifications
-- Summary statistics
-- Publication figures
-
----
-
-## Interactive GIS Model
-
-The interactive application allows users to explore how rebuilding incentives vary spatially across Maui.
-
-Users may adjust:
-
-- Compliance cost
-- Wildfire probability
-- Mitigation effectiveness
-- Enforcement probability
-- Expected sanctions
-
-The application demonstrates how localized spillovers influence neighboring parcels and illustrates the coordination problem developed in the manuscript.
 
 ---
 
