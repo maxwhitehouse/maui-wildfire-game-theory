@@ -11,7 +11,15 @@ The 2023 Lahaina wildfire highlighted the challenges of rebuilding communities w
 This project models rebuilding as a local externality game between neighboring homeowners. The framework combines game theory, Monte Carlo simulation, and spatial visualization to examine how compliance costs, wildfire risk, behavioral responses, and enforcement mechanisms jointly determine equilibrium rebuilding outcomes.
 
 ---
+# Repository Contents
 
+```
+.
+├── LICENSE                         # MIT License
+├── README.md                       # Project documentation
+└── maui-wildfire-game-theory.pdf   # Full research manuscript
+```
+---
 # Research Question
 
 > **Under what conditions do homeowners comply with wildfire-resilient rebuilding standards, and how do compliance costs, enforcement mechanisms, and spatial spillovers influence equilibrium rebuilding outcomes?**
