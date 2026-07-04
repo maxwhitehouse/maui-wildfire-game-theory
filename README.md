@@ -171,8 +171,7 @@ Advisor:
 
 **Dr. John Woodill**
 
-Oregon State University
-
+(https://johnwoodill.com/)
 ---
 
 # Author
